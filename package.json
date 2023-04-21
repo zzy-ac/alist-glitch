@@ -1,0 +1,8 @@
+{
+  "name": "alist-glitch",
+  "version": "1.0.0",
+  "description": "A file list program that supports multiple storage, powered by Gin and Solidjs.",
+  "scripts": {
+    "start": "./alist server --no-prefix"
+  }
+}
