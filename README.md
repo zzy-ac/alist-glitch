@@ -3,7 +3,7 @@
 
 # 教程
 1. 在glitch中新建项目引入本项目
-2. 将在alist-org/alist项目的release中下载ist-linux-musl-amd64.tar.gz，并解压出其中的alist二进制程序，并想办法将其放到公网（例如创建个github仓库给它扔release,下文中以https://example.org/alist为例）
+2. 将在alist-org/alist项目的release中下载ist-linux-musl-amd64.tar.gz，并解压出其中的alist二进制程序，并想办法将其放到公网（例如创建个github仓库给它扔release,下文中以 https://example.org/alist 为例）
 3. 在glitch项目中打开termial，输入
 ```bash
 wget https://example.org/alist -O alist
